@@ -20,7 +20,7 @@ In order to use this template and build a Node.js application, you need to insta
 
 1. Clone or download this repository
     ```
-    git clone https://github.com/slint-ui/slint-cpp-template my-project
+    git clone https://github.com/slint-ui/slint-nodejs-template my-project
     cd my-project
     ```
 2. Install dependencies with npm
@@ -37,4 +37,4 @@ We recommend using an IDE for development, along with our [LSP-based IDE integra
 ## Next Steps
 
 We hope that this template helps you get started and you enjoy exploring making user interfaces with Slint. To learn more
-about the Slint APIs and the `.slint` markup language check out our [online documentation](https://slint-ui.com/docs/cpp/).
+about the Slint APIs and the `.slint` markup language check out our [online documentation](https://slint-ui.com/docs/node/).
