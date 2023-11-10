@@ -8,4 +8,4 @@ window.request_increase_value = function () {
     window.counter = window.counter + 1;
 };
 
-window.run();
+await window.run();
