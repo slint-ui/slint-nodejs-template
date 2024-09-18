@@ -18,16 +18,17 @@ In order to use this template and build a Node.js application, you need to insta
 
 ## Usage
 
-1. Clone or download this repository
+1. Download and extract the [ZIP archive of this repository](https://github.com/slint-ui/slint-nodejs-template/archive/refs/heads/main.zip).
+2. Rename the extracted directory and change into it:
     ```
-    git clone https://github.com/slint-ui/slint-nodejs-template my-project
+    mv slint-nodejs-template-main my-project
     cd my-project
     ```
-2. Install dependencies with npm
+3. Install dependencies with npm
    ```
    npm install
    ```
-3. Run the application binary
+4. Run the application binary
     ```
     npm start
     ```
