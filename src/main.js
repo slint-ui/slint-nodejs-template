@@ -1,7 +1,6 @@
-import * as slint from "slint-ui";
+import { AppWindow } from "../ui/app-window.slint";
 
-let ui = slint.loadFile("ui/app-window.slint");
-let window = new ui.AppWindow();
+let window = new AppWindow();
 
 window.request_increase_value = function () {
     window.counter = window.counter + 1;
