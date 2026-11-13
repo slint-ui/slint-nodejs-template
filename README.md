@@ -12,7 +12,7 @@ JavaScript code, how to trigger react to callbacks, get and set properties and u
 
 In order to use this template and build a Node.js application, you need to install a few tools:
 
-  * **[Node.js](https://nodejs.org/download/release/)** (v16. or newer)
+  * **[Node.js](https://nodejs.org/download/release/)** (v22.18 or newer)
   * **[npm](https://www.npmjs.com/)**
 
 ## Usage
@@ -37,4 +37,4 @@ We recommend using an IDE for development, along with our [LSP-based IDE integra
 ## Next Steps
 
 We hope that this template helps you get started and you enjoy exploring making user interfaces with Slint. To learn more
-about the Slint APIs and the `.slint` markup language check out our [online documentation](https://docs.slint.dev/latest/node/).
+about the Slint APIs and the `.slint` markup language check out our [online documentation](https://docs.slint.dev/latest/docs/node/).

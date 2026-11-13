@@ -4,9 +4,9 @@
     "main": "src/main.js",
     "type": "module",
     "dependencies": {
-        "slint-ui": "^1.18.1"
+        "slint-ui": "^1.19.0"
     },
     "scripts": {
-        "start": "node ."
+        "start": "node --import slint-ui/register ."
     }
 }

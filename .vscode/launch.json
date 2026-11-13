@@ -11,6 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
+            "runtimeArgs": ["--import", "slint-ui/register"],
             "program": "${workspaceFolder}/src/main.js"
         }
     ]
